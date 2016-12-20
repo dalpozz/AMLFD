@@ -95,7 +95,7 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
  University of Luxembourg, 2015. 
  
 * **FAIR: Forecasting and network analytics for collection risk management**
-   *Van Vlasselaer, V.*, 
+   *V. Van Vlasselaer*, 
    Katholieke Universiteit Leuven, 2015. 
  
 
