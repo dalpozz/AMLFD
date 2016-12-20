@@ -14,10 +14,24 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
  International Workshop on Complex Networks and their Applications, 721--733, 2016.
  [Springer](http://link.springer.com/chapter/10.1007/978-3-319-50901-3_57)
 
+* **Feature engineering strategies for credit card fraud detection**
+  *AC Bahnsen, D Aouada, A Stojanovic, B Ottersten*
+  Expert Systems with Applications 51, 134-142, 2016
+
 * **When is undersampling effective in unbalanced classification tasks?**
   *A. Dal Pozzolo, O. Caelen, and G. Bontempi* 
   Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), Porto, Portugal, 2015. 
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/ECML_under_v4.pdf)
+  
+
+* **Example-dependent cost-sensitive decision trees**
+  *AC Bahnsen, D Aouada, B Ottersten*
+  Expert Systems with Applications 42 (19), 6609-6619, 2015
+
+* **APATE: A novel approach for automated credit card transaction fraud detection using network-based extensions.**
+  *Van Vlasselaer V., Bravo C., Caelen O., Eliassi-Rad T., Akoglu L., Snoeck M., Baesens B.*
+  Decision Support Systems. 2015.
+  [Elsevier](http://dx.doi.org/10.1016/j.dss.2015.04.013)
 
 * **Calibrating Probability with Undersampling for Unbalanced Classification**
   *A. Dal Pozzolo, O. Caelen, R. A Johnson and G. Bontempi* 
@@ -29,11 +43,7 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
   International Joint Conference on Neural Networks (IJCNN), Killarney, Ireland, 2015. 2014.
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/IJCNN2015_final.pdf)
 
-* **APATE: A novel approach for automated credit card transaction fraud detection using network-based extensions.**
-  *Van Vlasselaer V., Bravo C., Caelen O., Eliassi-Rad T., Akoglu L., Snoeck M., Baesens B.*
-  Decision Support Systems. 2015.
-  [Elsevier](http://dx.doi.org/10.1016/j.dss.2015.04.013)
-  
+
 * **Learned lessons in credit card fraud detection from a practitioner perspective**
   *A. Dal Pozzolo, O. Caelen, Y. Le Borgne, S. Waterschoot, and G. Bontempi* 
   Expert Systems with Applications, vol. 41, no. 10, pp. 4915–4928, 2014.
@@ -43,6 +53,10 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
   *A. Dal Pozzolo, R. A Johnson, O. Caelen, S. Waterschoot, N. V Chawla, and G. Bontempi*
   International Joint Conference on Neural Networks (IJCNN), Beijing, China, 2014.
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/HDDTstream_WCCI2014.pdf)
+
+* **Cost sensitive credit card fraud detection using Bayes minimum risk**
+  *AC Bahnsen, A Stojanovic, D Aouada, B Ottersten*
+  Machine Learning and Applications (ICMLA), 2013
 
 * **Racing for unbalanced methods selection**
   *A. Dal Pozzolo, O. Caelen, S. Waterschoot, and G. Bontempi*
