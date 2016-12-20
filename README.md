@@ -17,6 +17,10 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 * **Feature engineering strategies for credit card fraud detection**
   *AC Bahnsen, D Aouada, A Stojanovic, B Ottersten*
   Expert Systems with Applications 51, 134-142, 2016
+  
+* **Ensemble of Example-Dependent Cost-Sensitive Decision Trees**
+  *AC Bahnsen, D Aouada, B Ottersten*
+  arXiv preprint arXiv:1505.04637, 2015
 
 * **When is undersampling effective in unbalanced classification tasks?**
   *A. Dal Pozzolo, O. Caelen, and G. Bontempi* 
@@ -32,6 +36,10 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
   *Van Vlasselaer V., Bravo C., Caelen O., Eliassi-Rad T., Akoglu L., Snoeck M., Baesens B.*
   Decision Support Systems. 2015.
   [Elsevier](http://dx.doi.org/10.1016/j.dss.2015.04.013)
+  
+* **Detecting Credit Card Fraud using Periodic Features**
+  *AC Bahnsen, D Aouada, A Stojanovic*
+  2015 IEEE 14th International Conference on Machine Learning and Applications.
 
 * **Calibrating Probability with Undersampling for Unbalanced Classification**
   *A. Dal Pozzolo, O. Caelen, R. A Johnson and G. Bontempi* 
@@ -74,6 +82,7 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 # Thesis
 
 * **Adaptive Machine Learning for Credit Card Fraud Detection**
+  *A. Dal Pozzolo*
   [pdf](https://dalpozz.github.io/static/pdf/Dalpozzolo2015PhD.pdf)
 
 
