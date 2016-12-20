@@ -5,13 +5,14 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 
 # Publications
 
-* **A graph-based, semi-supervised, credit card fraud detection system**
- *B. Lebichot, F. Braun, and O. Caelen and M. Saerens*
- International Workshop on Complex Networks and their Applications, 721--733, 2016. 
-
 * **GOTCHA! Network-based fraud detection for social security fraud**
   *Van Vlasselaer, V., Eliassi-Rad, T., Akoglu, L., Snoeck, M., Baesens, B.*
   Management Science, accepted 2017.
+
+* **A graph-based, semi-supervised, credit card fraud detection system**
+ *B. Lebichot, F. Braun, and O. Caelen and M. Saerens*
+ International Workshop on Complex Networks and their Applications, 721--733, 2016.
+ [Springer](http://link.springer.com/chapter/10.1007/978-3-319-50901-3_57)
 
 * **When is undersampling effective in unbalanced classification tasks?**
   *A. Dal Pozzolo, O. Caelen, and G. Bontempi* 
@@ -30,8 +31,8 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 
 * **APATE: A novel approach for automated credit card transaction fraud detection using network-based extensions.**
   *Van Vlasselaer V., Bravo C., Caelen O., Eliassi-Rad T., Akoglu L., Snoeck M., Baesens B.*
-  Decision Support Systems.Elsevier 2015.
-  [pdf](http://dx.doi.org/10.1016/j.dss.2015.04.013)
+  Decision Support Systems. 2015.
+  [Elsevier](http://dx.doi.org/10.1016/j.dss.2015.04.013)
   
 * **Learned lessons in credit card fraud detection from a practitioner perspective**
   *A. Dal Pozzolo, O. Caelen, Y. Le Borgne, S. Waterschoot, and G. Bontempi* 
