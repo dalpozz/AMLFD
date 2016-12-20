@@ -5,9 +5,9 @@ This project list all publications and resources on the topic of Machine Learnin
 
 # Publications
 
-* When is undersampling effective in unbalanced classification tasks?
-A. Dal Pozzolo, O. Caelen, and G. Bontempi 
-Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), Porto, Portugal, 2015 
+* **When is undersampling effective in unbalanced classification tasks?**
+  *A. Dal Pozzolo, O. Caelen, and G. Bontempi* 
+  Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), Porto, Portugal, 2015 
 
 * Calibrating Probability with Undersampling for Unbalanced Classification
 A. Dal Pozzolo, O. Caelen, R. A Johnson and G. Bontempi 
