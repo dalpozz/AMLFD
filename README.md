@@ -89,6 +89,11 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 * **Example-Dependent Cost-Sensitive Classification**
  *AC Bahnsen*, 
  University of Luxembourg, 2015. 
+ 
+ * **FAIR: Forecasting and network analytics for collection risk management**
+   *Van Vlasselaer, V.*, 
+   Katholieke Universiteit Leuven, 2015. 
+ 
 
 # Dataset
 
