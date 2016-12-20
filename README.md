@@ -7,7 +7,7 @@ This project list all publications and resources on the topic of Machine Learnin
 
 * **When is undersampling effective in unbalanced classification tasks?**
   *A. Dal Pozzolo, O. Caelen, and G. Bontempi* 
-  Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), Porto, Portugal, 2015 
+  Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), Porto, Portugal, 2015. 
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/ECML_under_v4.pdf)
 
 * **Calibrating Probability with Undersampling for Unbalanced Classification**
@@ -18,7 +18,7 @@ This project list all publications and resources on the topic of Machine Learnin
 
 * **Credit Card Fraud Detection and Concept-Drift Adaptation with Delayed Supervised Information**
   *A. Dal Pozzolo, G. Boracchi, O. Caelen, C. Alippi and G. Bontempi* 
-  International Joint Conference on Neural Networks (IJCNN), Killarney, Ireland, 2015. 2014
+  International Joint Conference on Neural Networks (IJCNN), Killarney, Ireland, 2015. 2014.
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/IJCNN2015_final.pdf)
 
 * **Learned lessons in credit card fraud detection from a practitioner perspective**
