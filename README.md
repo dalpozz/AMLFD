@@ -22,11 +22,12 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
   *AC Bahnsen, D Aouada, B Ottersten*,
   arXiv preprint arXiv:1505.04637, 2015
 
+<!---
 * **When is undersampling effective in unbalanced classification tasks?**
   *A. Dal Pozzolo, O. Caelen, and G. Bontempi*, 
   Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), Porto, Portugal, 2015. 
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/ECML_under_v4.pdf)
-  
+ -->
 
 * **Example-dependent cost-sensitive decision trees**
   *AC Bahnsen, D Aouada, B Ottersten*,
@@ -41,10 +42,12 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
   *AC Bahnsen, D Aouada, A Stojanovic*,
   2015 IEEE 14th International Conference on Machine Learning and Applications.
 
+<!---
 * **Calibrating Probability with Undersampling for Unbalanced Classification**
   *A. Dal Pozzolo, O. Caelen, R. A Johnson and G. Bontempi*, 
   IEEE Symposium Series on Computational Intelligence (SSCI), Cape Town, South Africa, 2015.
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/SSCI_calib_final_noCC.pdf)
+-->
 
 * **Credit Card Fraud Detection and Concept-Drift Adaptation with Delayed Supervised Information**
   *A. Dal Pozzolo, G. Boracchi, O. Caelen, C. Alippi and G. Bontempi*, 
@@ -66,11 +69,12 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
   *AC Bahnsen, A Stojanovic, D Aouada, B Ottersten*,
   Machine Learning and Applications (ICMLA), 2013
 
+<!---
 * **Racing for unbalanced methods selection**
   *A. Dal Pozzolo, O. Caelen, S. Waterschoot, and G. Bontempi*,
   International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), Hefei, China, 2013. 
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/Racing_unbalanced_IDEAL.pdf)
-
+-->
 
 # Books
 
