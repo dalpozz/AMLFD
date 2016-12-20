@@ -31,7 +31,7 @@ This project list all publications and resources on the topic of Machine Learnin
 
 # Thesis
 
-* Adaptive Machine Learning for Credit Card Fraud Detection
+* **Adaptive Machine Learning for Credit Card Fraud Detection**
 
 
 # Dataset
