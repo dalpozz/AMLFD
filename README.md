@@ -55,7 +55,7 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 * **Learned lessons in credit card fraud detection from a practitioner perspective**
   *A. Dal Pozzolo, O. Caelen, Y. Le Borgne, S. Waterschoot, and G. Bontempi*, 
   Expert Systems with Applications, vol. 41, no. 10, pp. 4915–4928, 2014.
-  [pdf](hhttp://www.ulb.ac.be//di/map/adalpozz/pdf/FraudDetectionPaper_8.pdf)
+  [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/FraudDetectionPaper_8.pdf)
 
 * **Using HDDT to avoid instances propagation in unbalanced and evolving data streams**
   *A. Dal Pozzolo, R. A Johnson, O. Caelen, S. Waterschoot, N. V Chawla, and G. Bontempi*, 
