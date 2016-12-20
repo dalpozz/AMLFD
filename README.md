@@ -83,8 +83,12 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 
 * **Adaptive Machine Learning for Credit Card Fraud Detection**
   *A. Dal Pozzolo*
+  Universite Libre de Bruxelles, 2015.
   [pdf](https://dalpozz.github.io/static/pdf/Dalpozzolo2015PhD.pdf)
-
+  
+* **Example-Dependent Cost-Sensitive Classification**
+ *AC Bahnsen*
+  University of Luxembourg, 2015. 
 
 # Dataset
 
