@@ -6,6 +6,10 @@ This project list all publications and resources on the topic of Machine Learnin
 # Publications
 
 
+* **GOTCHA! Network-based fraud detection for social security fraud**
+  *Van Vlasselaer, V., Eliassi-Rad, T., Akoglu, L., Snoeck, M., Baesens, B.*
+  Management Science, accepted.
+
 * **When is undersampling effective in unbalanced classification tasks?**
   *A. Dal Pozzolo, O. Caelen, and G. Bontempi* 
   Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), Porto, Portugal, 2015. 
@@ -40,6 +44,14 @@ This project list all publications and resources on the topic of Machine Learnin
   *A. Dal Pozzolo, O. Caelen, S. Waterschoot, and G. Bontempi*
   International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), Hefei, China, 2013. 
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/Racing_unbalanced_IDEAL.pdf)
+
+
+# Books
+
+* **Fraud Analytics: Using Supervised, Unsupervised and Social Network Learning Techniques**
+  *Bart Baesens, Véronique Van Vlasselaer, Wouter Verbeke* 
+  [Amazon](http://www.amazon.com/Analytics-Descriptive-Predictive-Network-Techniques/dp/1119133122/ref=sr_1_6?ie=UTF8&qid=1429799105&sr=8-6)
+
 
 # Thesis
 
