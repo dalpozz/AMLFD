@@ -1,14 +1,17 @@
 # Adaptive Machine Learning for Credit Card Fraud Detection
 
-This project list all publications and resources on the topic of Machine Learning for Credit Card Fraud Detection.
+This project list resources on the topic of Machine Learning for Credit Card Fraud Detection.
 
 
 # Publications
 
+* **A graph-based, semi-supervised, credit card fraud detection system**
+ *B. Lebichot, F. Braun, and O. Caelen and M. Saerens*
+ International Workshop on Complex Networks and their Applications, 721--733, 2016. 
 
 * **GOTCHA! Network-based fraud detection for social security fraud**
   *Van Vlasselaer, V., Eliassi-Rad, T., Akoglu, L., Snoeck, M., Baesens, B.*
-  Management Science, accepted.
+  Management Science, accepted 2017.
 
 * **When is undersampling effective in unbalanced classification tasks?**
   *A. Dal Pozzolo, O. Caelen, and G. Bontempi* 
