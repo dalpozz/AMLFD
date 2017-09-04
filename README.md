@@ -5,6 +5,11 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 
 # Publications
 
+* **Credit Card Fraud Detection: a Realistic Modeling and a Novel Learning Strategy**
+  *A. Dal Pozzolo, G. Boracchi, O. Caelen, C. Alippi and G. Bontempi*, 
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2017. 
+  [pdf](https://dalpozz.github.io/static/pdf/TNNLS_2017.pdf)
+
 * **GOTCHA! Network-based fraud detection for social security fraud**
   *Van Vlasselaer, V., Eliassi-Rad, T., Akoglu, L., Snoeck, M., Baesens, B.*,
   Management Science, accepted 2017.
@@ -51,7 +56,7 @@ This project list resources on the topic of Machine Learning for Credit Card Fra
 
 * **Credit Card Fraud Detection and Concept-Drift Adaptation with Delayed Supervised Information**
   *A. Dal Pozzolo, G. Boracchi, O. Caelen, C. Alippi and G. Bontempi*, 
-  International Joint Conference on Neural Networks (IJCNN), Killarney, Ireland, 2015. 2014.
+  International Joint Conference on Neural Networks (IJCNN), Killarney, Ireland, 2015.
   [pdf](http://www.ulb.ac.be//di/map/adalpozz/pdf/IJCNN2015_final.pdf)
 
 
